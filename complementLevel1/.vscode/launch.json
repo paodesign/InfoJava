@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjercN1",
+            "request": "launch",
+            "mainClass": "EjercN1",
+            "projectName": "complementLevel1_86d65ad9"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjercN2",
+            "request": "launch",
+            "mainClass": "EjercN2",
+            "projectName": "complementLevel1_86d65ad9"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjercN3",
+            "request": "launch",
+            "mainClass": "EjercN3",
+            "projectName": "complementLevel1_86d65ad9"
+        }
+    ]
+}
