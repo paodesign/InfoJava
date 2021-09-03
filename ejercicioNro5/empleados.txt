@@ -1,0 +1,8 @@
+Mindy,Simmons,11-09-1994,55678.08
+Waylon,Smithers,23-04-1990,105678.05
+Troy,McClure,10-02-1976,9678.02
+Clancy,Gorgori,16-10-1992,65678.08
+Helen,Alegría,22-05-1998,65678.08
+Apu,Nahasapeemapetilon,18-09-1980,9678.02
+Charles,Burns,20-10-1945,165678.081
+Homero,Simpson,26-10-1992,65678.08
